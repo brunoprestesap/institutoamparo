@@ -20,15 +20,15 @@ const Hero = () => {
 
         <div
           id="sobre"
-          className="container mx-auto w-5/6 sm:h-4/6 items-center backdrop-opacity-50 bg-green-700 rounded-xl p-5 shadow-2xl shadow-stone-500"
+          className="container mx-auto w-5/6 sm:h-4/6 items-center backdrop-opacity-20 rounded-xl p-5 shadow-2xl shadow-stone-500"
         >
-          <p className="text-base mb-3 text-white">Consulte agora</p>
-          <p className="text-2xl text-white font-bold mb-3">Transformando Vidas com Cuidado Especializado e Empático.</p>
-          <p className="text-xl text-white mb-6 font-semibold">
+          <p className="text-base mb-3 text-green-700">Consulte agora</p>
+          <p className="text-2xl text-green-700 font-bold mb-3">Transformando Vidas com Cuidado Especializado e Empático.</p>
+          <p className="text-xl text-green-700 mb-6 font-semibold">
             Encontre Amparo e Equilíbrio na Sua Jornada para a Saúde Mental
           </p>
 
-          <button className="bg-green-200 p-3 rounded-xl text-green-950 font-semibold w-full">
+          <button className="bg-green-700 p-3 rounded-xl text-white font-semibold w-full">
             Agende sua consulta
           </button>
         </div>

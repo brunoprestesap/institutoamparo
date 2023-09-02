@@ -20,7 +20,7 @@ const Hero = () => {
 
         <div
           id="sobre"
-          className="container mx-auto w-5/6 h-4/6 items-center backdrop-opacity-50 bg-green-700 rounded-xl p-5 shadow-2xl shadow-stone-500"
+          className="container mx-auto w-5/6 sm:h-4/6 items-center backdrop-opacity-50 bg-green-700 rounded-xl p-5 shadow-2xl shadow-stone-500"
         >
           <p className="text-base mb-3 text-white">Consulte agora</p>
           <p className="text-2xl text-white font-bold mb-3">Transformando Vidas com Cuidado Especializado e Empático.</p>

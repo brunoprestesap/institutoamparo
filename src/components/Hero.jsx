@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="w-full h-screen flex items-center absolute top-0 bg-white/30">
         <div
           id="sobre"
-          className="container mx-auto text-center w-5/6 h-3/6 md:h-4/6 items-center backdrop-opacity-50 rounded-xl bg-white/50 p-5 bg-opacity-60 shadow-2xl shadow-stone-500"
+          className="container mx-auto text-center w-5/6 h-3/6 md:h-4/6 items-center backdrop-opacity-50 rounded-xl bg-white/20 p-5 shadow-2xl shadow-stone-500"
         >
           <h1 className="text-4xl uppercase lg:text-4xl font-bold text-center">
             Instituto Amparo
